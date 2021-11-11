@@ -3,6 +3,9 @@
 
  Java Programming Masterclass covering Java 11 & Java 17
 Course content
+
+everything will be found src folder
+
 1. Introduction To The Course
 2. Remaster in Progress
 3. Video Quality
