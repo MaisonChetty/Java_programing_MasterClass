@@ -4,19 +4,33 @@
 Java Programming Masterclass covering Java 11 & Java 17 Course content
 
 Introduction To The Course
+
 Remaster in Progress
+
 Video Quality
+
 Subtitles
+
 How to Get Help
+
 Important Tip - Source Code
+
 Biggest Tip to Succeed as a Java Programmer
+
 Being Persistent and the Four Stages of Becoming a Programmer videos
+
 Software Tools Introduction
+
 Java Development Kit Installation Overview
+
 Install JDK 11 for Windows
+
 Installing Intellij IDEA for Windows
+
 ** IMPORTANT ** - Configuring IntelliJ IDEA
+
 Install JDK 11 for Mac
+
 Installing Intellij IDEA for Mac
 Install JDK 11 for Linux
 Installing Intellij IDEA for Linux
