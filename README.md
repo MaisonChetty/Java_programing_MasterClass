@@ -32,57 +32,110 @@ Installing Intellij IDEA for Windows
 Install JDK 11 for Mac
 
 Installing Intellij IDEA for Mac
+
 Install JDK 11 for Linux
+
 Installing Intellij IDEA for Linux
+
 Configuring IntelliJ IDEA - WINDOWS, MAC and LINUX
+
 Introduction
+
 Hello World Project
+
 Defining the Main Method
+
 Hello World Challenge and Common Errors
+
 Variables
+
 Starting out with Expressions
+
 Primitive Types
+
 byte, short, long and width
+
 Casting in Java
+
 Primitive Types Challenge
+
 float and double Primitive Types
+
 Floating Point Precision and a Challenge
+
 The char and boolean Primitive Data Types
+
 Primitive Types Recap and the String Data Type
+
 Operators, Operands and Expressions
+
 Abbreviating Operators
+
 if-then Statement
+
 Logical and Operator
+
 Logical OR Operator
+
 Assignment Operator VS Equals to Operator
+
 Ternary Operator
+
 Operator Precedence and Operator Challenge
+
 First Steps Summary
+
 End of Remaster
+
 Introduction
+
 Keywords And Expressions
+
 Statements, Whitespace and Indentation (Code Organization)
+
 Code Blocks And The If Then Else Control Statements
+
 if then else Recap
+
 Methods In Java
+
 More On Methods And A Challenge
+
 Method Challenge - Final Code Changes
+
 DiffMerge Tool Introduction
+
 Install DiffMerge
+
 Using DiffMerge
+
 Coding Exercises
+
 Coding Exercises Example Part 1
+
 Coding Exercises Example Part 2
-Coding Exercises Example Part 3 Coding Exercise 1: Speed Converter Coding Exercise 2: MegaBytes Converter Coding Exercise 3: Barking Dog Coding Exercise 4: Leap Year Calculator Coding Exercise 5: DecimalComparator Coding Exercise 6: Equal Sum Checker Coding Exercise 7: Teen Number Checker
+
+Coding Exercises Example Part 3 Coding Exercise 1: Speed Converter Coding Exercise 2: MegaBytes Converter Coding Exercise 3: Barking Dog Coding Exercise 4: Leap Year
+Calculator Coding Exercise 5: DecimalComparator Coding Exercise 6: Equal Sum Checker Coding Exercise 7: Teen Number Checker
+
 Method Overloading
+
 Method Overloading Recap
+
 Seconds and Minutes Challenge
-Bonus Challenge Solution Coding Exercise 8: Area Calculator Coding Exercise 9: Minutes To Years and Days Calculator Coding Exercise 10: Equality Printer Coding Exercise 11: Playing Cat
+
+Bonus Challenge Solution Coding Exercise 8: Area Calculator Coding Exercise 9: Minutes To Years and Days Calculator Coding Exercise 10: Equality Printer Coding
+Exercise 11: Playing Cat
+
 Introduction
+
 The switch statement (+Challenge Exercise)
+
 Day of the Week Challenge Coding Exercise 12: Number In Word Coding Exercise 13: Number Of Days In Month
 The for Statement (+Challenge Exercise)
+
 For Loop Recap
+
 Sum 3 and 5 Challenge Coding Exercise 14: Sum Odd
 The while and do while statements (+Challenge Exercise)
 While and Do While Recap
